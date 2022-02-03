@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572774852310",
+    "project_id": "man-s-voice-a0a62",
+    "storage_bucket": "man-s-voice-a0a62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572774852310:android:ec6d48cc0b446240808b77",
+        "android_client_info": {
+          "package_name": "com.example.mans_voice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572774852310-shgbkg2m4e2fnp6m7nvtfsulodubmkm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ8Xugn5QTk0ZU6WQ3KeTcN4yU93Dvg4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572774852310-shgbkg2m4e2fnp6m7nvtfsulodubmkm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
